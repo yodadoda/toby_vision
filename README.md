@@ -28,7 +28,7 @@ A computer-vision subsystem for TOBY that detects objects with YOLO, locks onto 
 ## Setup (from clone to run)
 1. Clone and enter the repo:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/yodadoda/toby_vision.git
 cd toby_vision
 ```
 
